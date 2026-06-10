@@ -1,6 +1,16 @@
-# 📋 Task Manager Application
+# Task Manager Application
 
-A modern, full-stack task management application built with **Node.js**, **Express.js**, **EJS templating**, and **MongoDB Atlas**. This application provides an intuitive interface for managing tasks with priority levels, completion tracking, and real-time updates.
+A full-stack task management application built using Node.js, Express.js, EJS, MongoDB Atlas, and RESTful APIs. The application enables users to create, update, prioritize, complete, and manage tasks through a responsive interface with real-time updates and persistent cloud-based storage.
+
+### Key Highlights
+
+* Full-stack web application with MongoDB Atlas integration
+* RESTful API architecture using Express.js
+* Dynamic server-side rendering with EJS
+* Task prioritization and completion tracking
+* Responsive and mobile-friendly user interface
+* Persistent cloud database storage
+* Deployed on Render for public access
 
 ## 🚀 Live Demo
 
